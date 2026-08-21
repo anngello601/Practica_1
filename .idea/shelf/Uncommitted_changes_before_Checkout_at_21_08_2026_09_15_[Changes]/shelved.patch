@@ -1,0 +1,18 @@
+Index: pagina_2.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Title</title>\r\n</head>\r\n<body>\r\n<p>Pagina 2</p>\r\n    <div>\r\n        <a href=\"index.html\"></a>\r\n    </div>\r\n</body>\r\n</html>
+===================================================================
+diff --git a/pagina_2.html b/pagina_2.html
+--- a/pagina_2.html	(revision 819e55765c9557764b9405145306f1a41c9a6738)
++++ b/pagina_2.html	(date 1787321685556)
+@@ -7,7 +7,7 @@
+ <body>
+ <p>Pagina 2</p>
+     <div>
+-        <a href="index.html"></a>
++        <a href="index.html"> volver</a>
+     </div>
+ </body>
+ </html>
+\ No newline at end of file
